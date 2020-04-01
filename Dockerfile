@@ -1,1 +1,1 @@
-FROM vxfield/katas:1.9
+FROM vxfield/katas:1.10
